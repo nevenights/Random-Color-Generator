@@ -1,4 +1,4 @@
-## Random Color Generator App
+## Random Color Generator 
 
 ### Tecnologies Used:
 - HTML
